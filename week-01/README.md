@@ -1,4 +1,4 @@
-#### **root vs. IAM vs. Shared Responsibility Model**
+### **root vs. IAM vs. Shared Responsibility Model**
 
 *Describing what root vs. IAM vs. Shared Responsibility Model means*
 
